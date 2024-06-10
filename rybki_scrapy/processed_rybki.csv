@@ -1,0 +1,210 @@
+,name,latin_name,temperature,length,location,food,kryjowka_info,breeding_info
+0,Gupik Endlera, Poecilia wingei ,22 - 30°C,4 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'domek']",żyworodne
+1,Giętkoząb czarnobrzuchy – Opaczek, Synodontis nigriventris ,22 - 28°C,10 cm,Afryka,"mrożony,suchy,żywy","['korzenie', 'kamienie', 'roślinka']",jajorodne
+2,Glonojad syjamski, Gyrinocheilus aymonieri ,23 - 28°C,20 - 25 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'kamienie', 'korzenie']",jajorodne
+3,Gurami całujący, Helostoma temminkii ,22 - 30°C,20 - 30 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['korzenie', 'roślinka']",jajorodne
+4,Grubowarg dwubarwny – Labeo, Epalzeorhynchos bicolor ,22 - 26°C,15 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'kamienie', 'korzenie']",jajorodne
+5,Giętkoząb wielkopłetwy, Synodontis eupterus ,22 - 27°C,15 - 20 cm,Afryka,"mrożony,roślinny,suchy,żywy","['domek', 'kamienie', 'korzenie', 'roślinka']",jajorodne
+6,Pielęgniczka żółta – Borelli, Apistogramma borellii ,20 - 26°C,6.5 cm,Ameryka Płd., "mrożony,suchy,żywy","['korzenie', 'domek', 'roślinka']",jajorodne
+7,Gupik pawie oczko, Poecilia reticulata ,18 - 32°C,6 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy",['roślinka'],żyworodne
+8,Bystrzyk kolumbijski, Hyphessobrycon columbianus ,20 - 28°C,5 - 6.5 cm,Ameryka Płd.,umiarkowane,"['roślinka', 'korzenie']",jajorodne
+9,Bystrzyk Pereza – czerwonoplamy, Hyphessobrycon erythrostigma ,21 - 28°C,6 cm,Ameryka Płd.,umiarkowane,"['roślinka', 'korzenie']",jajorodne
+10,Gurami czekoladowe, Sphaerichthys osphromenoides ,23 - 30°C,4 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+11,Bystrzyk Ozdobny, Hyphessobrycon bentosi , 24 - 28°C,4.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+12,Bystrzyk czerwony – Tetra czerwona, Hyphessobrycon flammeus ,22 - 27°C,4.5 cm,Ameryka Śr.,"mrożony,suchy,żywy",['roślinka'],jajorodne
+13,Gurami samuraj, Sphaerichthys vaillanti ,21 - 25°C,4.5 - 5.5 cm,Azja,"mrożony,suchy,żywy","['korzenie', 'domek', 'roślinka']",jajorodne
+14,Gurami mozaikowy, Trichopodus leerii ,24 - 30°C,12 cm,Azja,"mrożony,suchy,żywy",['roślinka'],jajorodne
+15,Księżniczka z Burundi, Neolamprologus brichardi ,23 - 27°C,7 - 9 cm,Tanganika,agresywne,['roślinka'],jajorodne
+16,Gurami dwuplamisty – dwuplamy, Trichopodus trichopterus ,24 - 30°C,13 cm,Azja,"mrożony,suchy,żywy",['roślinka'],jajorodne
+17,Cierniooczek długonosy – Mułojad, Acantopsis dialuzona ,24 - 28°C,20 cm,Azja,"mrożony,roślinny,suchy,żywy","['korzenie', 'domek']",jajorodne
+18,Cierniooczek Kuhla – Piskorek Kuhli, Pangio semicincta ,21 - 26°C,9 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'domek', 'kamienie', 'korzenie']",jajorodne
+19,Czerwieniak dwuplamy – cętkowany, Hemichromis guttatus ,22 - 28°C,12 cm,Afryka,bardzo agresywne,"['korzenie', 'kamienie', 'domek', 'roślinka']",jajorodne
+20,Loricaria red lizard – Zbrojnik czerwony, Rineloricaria sp. red ,24 - 29°C,12 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['korzenie', 'kamienie', 'domek', 'roślinka']",jajorodne
+21,Danio erythromicron, Celestichthys erythromicron ,20 - 24°C,2 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+22,Czerwieniak kongijski – Moanda, Hemichromis lifalili ,22 - 24°C,10 cm,Afryka,umiarkowane,"['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+23,Danio lamparci, Brachydanio rerio var. frankei ,18 - 24°C,5 cm,Azja,"mrożony,suchy,żywy",['roślinka'],jajorodne
+24,Danio malabarski, Devario malabaricus ,21 - 25°C,10 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'kamienie', 'korzenie']",jajorodne
+25,Kosiarka – Grubowarg syjamski, Crossocheilus langei ,22 - 26°C,15 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+26,Danio pręgowany – zebra, Brachydanio rerio ,18 - 24°C,5 cm,Azja,łagodne,['roślinka'],jajorodne
+27,Microrasbora kubotai, Microdevario kubotai ,20 - 27°C,1.9 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+28,Labeo – Grubowarg zielony, Epalzeorhynchos frenatum ,22 - 26°C,15 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'kamienie', 'korzenie']",jajorodne
+29,Modrook słoneczny – Pseudomugil furcatus, Popondichthys furcatus ,24 - 28°C,4 - 6 cm,Nowa Gwinea,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+30,Modrook Gertrudy – Pseudomugil Gertrudy, Pseudomugil gertrudae ,21 - 28°C,3 - 4 cm,Nowa Gwinea,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+31,Molinezja Ostrousta, Poecilia sphenops ,24 - 29°C,10 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",żyworodne
+32,Mieczyk Hellera, Xiphophorus hellerii ,24 - 27°C,12 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy",['roślinka'],żyworodne
+33,Miedzik obrzeżony, Hasemania nana ,23 - 28°C,5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+34,Molinezja żaglopłetwa, Poecilia velifera ,22 - 28°C,15 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy",['roślinka'],żyworodne
+35,Motylowiec, Pantodon buchholzi ,23 - 30°C,12 cm,Afryka,"mrożony,żywy",['roślinka'],jajorodne
+36,Danio tęczowy, Brachydanio albolineata ,16 - 25°C,5 - 6 cm,Azja,łagodne,"['roślinka', 'kamienie', 'korzenie']",jajorodne
+37,Drewniak dwubarwny, Bunocephalus coracoideus ,20 - 27°C,15 cm,Ameryka Płd.,"mrożony,suchy,żywy","['korzenie', 'kamienie']",jajorodne
+38,Długonos ciernisty – Węgorzyk, Macrognathus aculeatus ,22 - 28°C,30 cm,Azja,"mrożony,suchy,żywy","['domek', 'kamienie', 'korzenie', 'roślinka']",jajorodne
+39,Drobniczka jednodniówka, Heterandria formosa ,20 - 26°C,3.5 cm,Ameryka Śr.,łagodne,['roślinka'],żyworodne
+40,Drobnotka nadobna, Neoheterandria elegans ,22 - 26°C,2.5 cm,Ameryka Płd.,bardzo łagodne,['roślinka'],żyworodne
+41,Drobnoustek Beckforda – ozdobny, Nannostomus beckfordi ,22 - 27°C,5 - 6 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+42,Drobnoustek obrzeżony, Nannostomus marginatus ,22 - 28°C,3.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+43,Duch Amazoński – Brazylijski, Apteronotus albifrons ,23 - 28°C,30 cm,Ameryka Płd.,"mrożony,suchy,żywy","['domek', 'kamienie', 'korzenie']",jajorodne
+44,Garra panda, Garra flavatra ,19 - 27°C,7 - 9 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+45,Fantom czarny – Barwieniec czarny, Hyphessobrycon megalopterus ,22 - 28°C,4.5 cm,Ameryka Płd.,"mrożony,suchy,żywy",['roślinka'],jajorodne
+46,Fantom czerwony – Barwieniec czerwony, Hyphessobrycon sweglesi ,22 - 27°C,4.5 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+47,Błyszczyk parański, Moenkhausia sanctaefilomenae ,22 - 26°C,7 cm,Ameryka Płd.,umiarkowane,"['roślinka', 'korzenie']",jajorodne
+48,Garra rufa – Brzana ssąca, Garra rufa ,15 - 28°C,5 - 24 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+49,Bass słoneczny, Lepomis gibbosus ,4 - 22°C,15 - 30 cm,Ameryka Płn.,"agresywne,umiarkowane","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+50,Bocja indochińska, Syncrossus berdmorei ,21 - 26°C,20 - 25 cm,Azja,agresywne,"['kamienie', 'korzenie', 'roślinka', 'domek']",jajorodne
+51,Bocja karłowata, Ambastaia sidthimunki ,24 - 30°C,5 - 6 cm,Azja,umiarkowane,"['kamienie', 'korzenie', 'roślinka']",jajorodne
+52,Bocja Kubotai, Botia kubotai ,22 - 28°C,15 cm,Azja,umiarkowane,[],jajorodne
+53,Bocja mysia – Bocja syjamska, Yasuhikotakia morleti ,23 - 28°C,7.5 - 8.5 cm,Azja,agresywne,"['kamienie', 'korzenie', 'roślinka']",jajorodne
+54,Bocja pręgowana, Botia striata ,21 - 26°C,8 - 10 cm,Azja,umiarkowane,"['kamienie', 'roślinka', 'domek']",jajorodne
+55,Bocja tygrysia, Syncrossus helodes ,24 - 30°C,25 - 30 cm,Azja,agresywne,"['kamienie', 'korzenie', 'roślinka', 'domek']",jajorodne
+56,Bocja siatkowana, Botia almorhae ,19 - 27°C,10 - 16 cm,Azja,umiarkowane,"['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+57,Bocja szara – modesta, Yasuhikotakia modesta ,23 - 28°C,18 - 25 cm,Azja,umiarkowane,"['domek', 'roślinka', 'kamienie']",jajorodne
+58,Bocja wspaniała, Chromobotia macracanthus ,24 - 30°C,20 - 30 cm,Azja,umiarkowane,"['kamienie', 'korzenie', 'roślinka']",jajorodne
+59,Bojownik bezbronny – karłowaty, Betta imbellis ,24 - 28°C,6 cm,Azja,agresywne,"['roślinka', 'domek', 'korzenie', 'kamienie']",jajorodne
+60,Brzanka Denisona, Sahyadria denisonii ,15 - 25°C,14 - 15 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'kamienie', 'korzenie']",jajorodne
+61,Bojownik wspaniały – syjamski, Betta splendens ,24 - 30°C,6.5 cm,Azja,"agresywne,umiarkowane","['roślinka', 'domek']",jajorodne
+62,Brzanka odeska – Brzanka dwuplama, Pethia padamya ,16 - 25°C,4 - 4.5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+63,Brzanka różowa, Pethia conchonius ,16 - 24°C,9 - 12 cm,Azja,"mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+64,Brzanka rekinia, Balantiocheilos melanopterus ,22 - 28°C,25 cm,Azja,"mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie']",jajorodne
+65,Akara pomarańczowopłetwa, Andinoacara rivulatus ,20 - 25°C,20 - 30 cm,Ameryka Płd.,bardzo agresywne,"['korzenie', 'kamienie', 'domek', 'roślinka']",jajorodne
+66,Brzanka wysmukła – titteya, Puntius titteya ,20 - 27°C,4 - 5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+67,Brzanka sumatrzańska, Puntigrus tetrazona ,22 - 26°C,5 cm,Azja,"mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+68,Buszowiec ostropyski, Ctenopoma acutirostre ,23 - 28°C,15 - 20 cm,Afryka,"mrożony,żywy","['roślinka', 'korzenie']",jajorodne
+69,Bystrzyk barwny, Hyphessobrycon eques ,22 - 28°C,3 - 4 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie', 'domek']",jajorodne
+70,Bystrzyk amandy, Hyphessobrycon amandae , 23 - 28°C,2 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+71,Bystrzyk cytrynowy – pięknopłetwy, Hyphessobrycon pulchripinnis ,23 - 28°C,3.5 - 4 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+72,Akara z Maroni, Cleithracara maronii ,22 - 28°C,10 cm,Ameryka Płd.,"mrożony,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+73,Akara błękitna, Andinoacara pulcher ,22 - 28°C,14 - 16 cm,Ameryka Płd.,umiarkowane,"['korzenie', 'roślinka']",jajorodne
+74,Akarka czerwonobrzucha – wiśniowa, Laetacara dorsigera ,20 - 28°C,7 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+75,Akarka paskowana, Nannacara anomala ,22 - 26°C,7.5 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'korzenie']",jajorodne
+76,Hokejówka amazońska, Thayeria boehlkei ,22 - 28°C,6 - 7.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+77,Kardynałek chiński, Tanichthys albonubes ,16 - 22°C,4 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+78,Ameka wspaniała, Ameca splendens ,20 - 30°C,10 cm,Ameryka Płn.,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'kamienie', 'korzenie']",żyworodne
+79,Babka złota, Brachygobius doriae ,24 - 28°C,3  -  4 cm,Azja,umiarkowane,['domek'],jajorodne
+80,Babka tęczowa, Stiphodon ornatus ,20 - 28°C,6.5 - 7 cm,Azja,umiarkowane,[],jajorodne
+81,Barwniak szmaragdowy, Pelvicachromis taeniatus ,22 - 26°C,8 cm,Afryka,"mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'kamienie', 'korzenie']",jajorodne
+82,Badis bengalski – Dario dario, Dario dario ,18 - 26°C,2 cm,Azja,"mrożony,suchy,żywy","['domek', 'roślinka', 'korzenie']",jajorodne
+83,Kirysek pigmej, Corydoras pygmaeus ,22 - 26°C,3 cm,Ameryka Płd.,bardzo łagodne,"['roślinka', 'korzenie']",jajorodne
+84,Barwniak czerwonobrzuchy, Pelvicachromis pulcher ,24 - 27°C,10 cm,Afryka,"mrożony,roślinny,suchy,żywy","['domek', 'korzenie']",jajorodne
+85,Gurami syjamski, Trichopodus pectoralis ,22 - 30°C,17 - 20 cm,Azja,"mrożony,suchy,żywy",['roślinka'],jajorodne
+86,Barwniak Thomasa, Anomalochromis thomasi ,23 - 27°C,9 - 10 cm,Afryka,"mrożony,suchy,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+87,Kirysek czarny, Corydoras schultzei ,21 - 27°C,7.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+88,Kirys grzebykoczelny, Agamyxis pectinifrons ,22 - 26°C,12 - 15 cm,Ameryka Płd.,umiarkowane,"['domek', 'korzenie']",jajorodne
+89,Kirysek albinos, Corydoras aeneus albino ,20 - 28°C,5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['domek', 'roślinka']",jajorodne
+90,Kirysek Julii – Kirysek nakrapiany, Corydoras julii ,23 - 26°C,5.2 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+91,Kirysek pstry, Corydoras paleatus ,20 - 26°C,7 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'domek', 'korzenie', 'kamienie']",jajorodne
+92,Kirysek spiżowy, Corydoras aeneus ,20 - 28°C,7 cm,Ameryka Płd.,bardzo łagodne,"['domek', 'korzenie', 'kamienie']",jajorodne
+93,Kirysek karłowaty – sierpoplamy, Corydoras hastatus ,20 - 28°C,2.4 cm,Ameryka Płd.,"mrożony,suchy,żywy",['roślinka'],jajorodne
+94,Kirysek kolumbijski, Corydoras metae ,22 - 26°C,4 - 5 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+95,Kirysek lamparci, Corydoras leopardus ,20 - 26°C,7.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+96,Kirysek malutki, Corydoras habrosus ,22 - 26°C,3 - 3.5 cm,Ameryka Płd.,bardzo łagodne,"['korzenie', 'roślinka']",jajorodne
+97,Kirysek panda, Corydoras panda ,22 - 25°C,5 cm,Ameryka Płd.,bardzo łagodne,['korzenie'],jajorodne
+98,Kolcobrzuch karłowaty, Carinotetraodon travancoricus ,22 - 28°C,2.5 cm,Azja,"mrożony,ślimaki,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+99,Kirysek strumieniowy – pasiasty, Corydoras arcuatus ,22 - 26°C,7 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+100,Kirysek Sterby, Corydoras Sterbai ,21 - 25°C,6.5 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+101,Kirysek szmaragdowy, Corydoras splendens ,22 - 28°C,9 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+102,Kirysek trójpręgi, Corydoras trilineatus ,22 - 26°C,5.5 cm,Ameryka Płd.,bardzo łagodne,['korzenie'],jajorodne
+103,Kirysek wspaniały – mozaikowy, Corydoras haraldschultzi ,24 - 28°C,7.5 - 8.5 cm,Ameryka Płd.,"mrożony,suchy,żywy",['korzenie'],jajorodne
+104,Kolcobrzuch dwuplamy, Tetraodon biocellatus ,22 - 26°C,8 cm,Azja,"mrożony,roślinny,ślimaki,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+105,Kiryśnik czarnoplamy, Megalechis thoracata ,18 - 28°C,15 - 18 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'korzenie']",jajorodne
+106,Sum rekini, Pangasianodon hypophthalmus ,22 - 26°C,90 cm,Azja,"mrożony,roślinny,suchy,żywy","['korzenie', 'kamienie']",jajorodne
+107,Kolcobrzuch zielony, Tetraodon nigroviridis ,24 - 28°C,15 cm,Azja,"mrożony,ślimaki,żywy","['roślinka', 'korzenie']",jajorodne
+108,Sum liniowy – Platydora kolczasta, Platydoras armatulus ,23 - 30°C,20 cm,Ameryka Płd.,"mrożony,roślinny,suchy","['korzenie', 'roślinka']",jajorodne
+109,Tęczanka Wernera – filigranowa, Iriatherina werneri ,22 - 30°C,4 - 5 cm,Nowa Gwinea,"mrożony,roślinny,suchy","['roślinka', 'korzenie']",jajorodne
+110,Tetra Cesarska, Nematobrycon palmeri ,23 - 27°C,5 cm,Ameryka Płd.,"mrożony,roślinny,suchy","['roślinka', 'domek']",jajorodne
+111,Sumik Szklisty, Kryptopterus minor ,21 - 26°C,8 cm,Azja,"mrożony,suchy,żywy",['roślinka'],jajorodne
+112,Świecik kongolański – kongijski, Phenacogrammus interruptus ,23 - 28°C,8 cm,Afryka,"glony,mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+113,Szczelinowiec Leleupa, Neolamprologus Leleupi ,23 - 27°C,10 cm,Tanganika,"mrożony,suchy,żywy",['domek'],jajorodne
+114,Zbrojnik lamparci, Glyptoperichthys gibbiceps ,24 - 28°C,40 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['domek', 'korzenie', 'roślinka']",jajorodne
+115,Szczupieńczyk Dageta, Epiplatys dageti dageti ,21 - 25°C,6 cm,Afryka,"mrożony,suchy,żywy","['roślinka', 'kamienie', 'korzenie']",jajorodne
+116,Trzciniak, Erpetoichthys calabaricus ,23 - 30°C,60 cm,Afryka,"mrożony,żywy","['domek', 'korzenie', 'roślinka']",jajorodne
+117,Zbrojnik pospolity – glonojad, Ancistrus sp. ,18 - 27°C,10 - 15 cm,Ameryka Płd.,umiarkowane,"['domek', 'korzenie', 'kokos', 'kamienie', 'roślinka']",jajorodne
+118,Szczupieńczyk Karłowaty, Epiplatys annulatus ,24 - 26°C,4 cm,Afryka,"mrożony,suchy,żywy","['roślinka', 'domek']",jajorodne
+119,Zagrzebka Rachowa, Nothobranchius rachovii ,21 - 26°C,5.5 cm,Afryka,umiarkowane,"['domek', 'roślinka', 'korzenie', 'kamienie']",jajorodne
+120,Zagrzebka afrykańska – Suszec Gunthera, Nothobranchius guentheri ,20 - 27°C,3.5 cm,Afryka,umiarkowane,"['domek', 'roślinka', 'korzenie', 'kamienie']",jajorodne
+121,Wielkopłetw wspaniały, Macropodus opercularis ,16 - 27°C,7 - 10 cm,Azja,"mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+122,Zbrojnik niebieski, Ancistrus dolichopterus ,23 - 28°C,10 cm,Ameryka Płd.,łagodne,"['korzenie', 'roślinka']",jajorodne
+123,Zbrojnik zebra, Hypancistrus zebra ,26 - 30°C,10 - 12 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie']",jajorodne
+124,Żałobniczka – czarna Tetra, Gymnocorymbus ternetzi ,20 - 26°C,6 cm,Ameryka Płd.,"mrożony,suchy,żywy",['roślinka'],jajorodne
+125,Zbrojnik złoty, Ancistrus sp. L144 ,21 - 26°C,11 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['korzenie', 'kamienie', 'roślinka']",jajorodne
+126,Tęczanka Neonowa, Melanotaenia praecox ,23 - 28°C,6 cm,Nowa Gwinea,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+127,Tęczanka Czerwona, Glossolepis incisus ,22 - 26°C,15 cm,Nowa Gwinea,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+128,Żółtaczek indyjski, Etroplus maculatus ,20 - 28°C,7 - 8 cm,Azja,umiarkowane,['domek'],jajorodne
+129,Tęczanka niebieska, Melanotaenia lacustris ,20 - 25°C,12 cm,Nowa Gwinea,"mrożony,suchy,żywy",['roślinka'],jajorodne
+130,Tęczanka Boesemana, Melanotaenia boesemani ,25 - 29°C,11 cm,Nowa Gwinea,"mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+131,Tęczanka trójpręga, Melanotaenia trifasciata ,24 - 30°C,13 cm,Australia,"mrożony,suchy,żywy",['roślinka'],jajorodne
+132,Ziemiojad orange head Tapajos, Geophagus sp. orange head ,25 - 30°C,20 cm,Ameryka Płd.,łagodne,['korzenie'],jajorodne
+133,Złota rybka – Welon, Carassius auratus ,16 - 24°C,10 - 20 cm,Azja,"mrożony,roślinny,suchy,żywy",[],jajorodne
+134,Zmienniak plamisty – Platka, Xiphophorus maculatus ,18 - 26°C,6 cm,Ameryka Śr.,bardzo łagodne,"['roślinka', 'kamienie']",żyworodne
+135,Zwinnik jarzeniec, Hemigrammus erythrozonus ,24 - 28°C,4 cm,Ameryka Płd.,"mrożony,suchy,żywy",['roślinka'],jajorodne
+136,Zwinnik Blehera, Hemigrammus bleheri ,23 - 27°C,5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+137,Mruk Petersa – Trąbonos, Gnathonemus petersii ,23 - 28°C,22 cm,Afryka,"mrożony,roślinny,suchy","['domek', 'kamienie', 'korzenie', 'roślinka']",jajorodne
+138,Muszlowiec krótki, Neolamprologus brevis ,23 - 27°C,6 cm,Tanganika,"mrożony,roślinny,suchy,żywy",[],jajorodne
+139,Muszlowiec wielopręgi, Neolamprologus multifasciatus ,24 - 27°C,4.5 cm,Afryka,"mrożony,suchy,żywy",[],jajorodne
+140,Naskalnik Dickfelda, Julidochromis dickfeldi ,23 - 27°C,8 cm,Tanganika,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+141,Razbora Hengela, Trigonostigma hengeli ,23 - 28°C,3.5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+142,Naskalnik kędzierzawy – ozdobny, Julidochromis ornatus ,23 - 27°C,8 cm,Tanganika,"mrożony,roślinny,suchy,żywy",[],jajorodne
+143,Naskalnik Marliera, Julidochromis marlieri ,23 - 27°C,13 cm,Tanganika,"mrożony,roślinny,suchy,żywy","['kamienie', 'domek']",jajorodne
+144,Pyszczak Zebra Red, Maylandia estherae ,24 - 28°C,13 cm,Malawi,"glony,mrożony,roślinny,suchy,żywy","['domek', 'kamienie']",jajorodne
+145,Pyszczak złocisty, Melanochromis auratus ,24 - 28°C,11 cm,Malawi,"glony,mrożony,roślinny,suchy,żywy","['domek', 'roślinka']",jajorodne
+146,Razbora Espei, Trigonostigma espei ,23 - 28°C,3.5 cm,Azja,bardzo łagodne,"['roślinka', 'korzenie']",jajorodne
+147,Razbora Borneańska – Brigittae, Boraras brigittae ,23 - 28°C,2 cm,Azja,"roślinny,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+148,Naskalnik Regana, Julidochromis regani ,23 - 27°C,15 cm,Tanganika,"mrożony,roślinny,suchy,żywy",['kamienie'],jajorodne
+149,Razbora klinowa, Trigonostigma heteromorpha ,21 - 28°C,3.5 cm,Azja,"mrożony,suchy,żywy","['korzenie', 'roślinka']",jajorodne
+150,Neon czarny – Bystrzyk Axelroda, Hyphessobrycon herbertaxelrodi ,23 - 28°C,4 cm,Ameryka Płd.,łagodne,"['roślinka', 'korzenie']",jajorodne
+151,Naskalnik wężogłowy, Julidochromis transcriptus ,23 - 27°C,7 cm,Tanganika,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+152,Neon Innesa, Paracheirodon innesi ,20 - 26°C,3 - 3.5 cm,Ameryka Płd.,łagodne,"['korzenie', 'roślinka']",jajorodne
+153,Neon czerwony, Paracheirodon axelrodi ,23 - 29°C,4 - 5 cm,Ameryka Płd.,łagodne,"['roślinka', 'korzenie']",jajorodne
+154,Razbora plamista – karłowata, Boraras maculatus ,24 - 28°C,2.5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+155,Neon zielony – Neon simulans, Paracheirodon simulans ,21 - 35°C,2.5 cm,Ameryka Płd.,łagodne,"['roślinka', 'korzenie']",jajorodne
+156,Skrzeczyk pręgowany, Trichopsis vittata ,22 - 28°C,6 - 7 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+157,Skalar – Żaglowiec, Pterophyllum scalare ,24 - 30°C,15 cm,Ameryka Płd.,umiarkowane,"['korzenie', 'domek', 'roślinka']",jajorodne
+158,Skalar altum – Żaglowiec wysoki, Pterophyllum altum ,27 - 31°C,18 cm,Ameryka Płd.,umiarkowane,"['korzenie', 'roślinka']",jajorodne
+159,Skrzeczyk karłowaty, Trichopsis pumila ,22 - 28°C,3.5 - 4 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+160,Paletka – Dyskowiec, Symphysodon aequifasciatus ,26 - 30°C,20 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['roślinka', 'domek', 'korzenie']",jajorodne
+161,Sum indyjski – Długowąs azjatycki, Heteropneustes fossilis ,21 - 25°C,25 - 30 cm,Azja,umiarkowane,"['domek', 'korzenie', 'roślinka']",jajorodne
+162,Niebiański Danio perłowy – Razbora galaxy, Danio margaritatus ,22  -  27°C,2.5 cm,Azja,umiarkowane,"['domek', 'roślinka']",jajorodne
+163,Otosek przyujściowy, Otocinclus macrospilus ,21 - 27°C,3.5 cm,Ameryka Płd.,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'domek']",jajorodne
+164,Pielęgnica cytrynowa, Amphilophus citrinellus ,22 - 28°C,25 - 35 cm,Ameryka Śr.,"glony,mrożony,roślinny,ślimaki,suchy,żywy","['kamienie', 'korzenie']",jajorodne
+165,Pielęgnica diamentowa – Salvini, Cichlasoma salvini ,22 - 32°C,18 cm,Ameryka Śr.,"mrożony,suchy,żywy","['domek', 'korzenie', 'kamienie']",jajorodne
+166,Pielęgnica managuańska, Parachromis managuensis ,24 - 28°C,40 cm,Ameryka Śr.,"mrożony,suchy,żywy","['domek', 'kamienie', 'korzenie']",jajorodne
+167,Pielęgnica Meeka, horichthys meeki ,21 - 26°C,13 cm,Ameryka Śr.,"mrożony,roślinny,suchy,żywy","['korzenie', 'kamienie', 'roślinka']",jajorodne
+168,Pielęgnica miodowa, Archocentrus multispinosus ,22 - 28°C,10 - 17 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+169,Pielęgnica nikaraguańska, Hypsophrys nicaraguensis ,23 - 28°C,25 cm,Ameryka Śr.,"mrożony,ślimaki,suchy,żywy","['domek', 'korzenie', 'kamienie', 'roślinka']",jajorodne
+170,Pielęgnica niebieskołuska – plamista, Rocio octofasciata ,22 - 30°C,15 - 20 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+171,Pielęgnica papuzia, Parrot Cichlid ,23 - 29°C,15 - 24 cm,Ameryka Płd.,"mrożony,suchy,żywy","['korzenie', 'kamienie', 'roślinka']",jajorodne
+172,Prętnik Karłowaty, Trichogaster lalius ,22 - 27°C,7.5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'domek']",jajorodne
+173,Płaskobok tępogłowy – ozdobny, Metynnis hypsauchen ,24 - 28°C,15 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+174,Półdziobek karłowaty, Dermogenys pusilla ,24 - 28°C,7 cm,Azja,"mrożony,roślinny,suchy,żywy",['roślinka'],żyworodne
+175,Pielęgnica pawiooka – Oskar, Astronotus ocellatus ,21 - 28°C,25 - 35 cm,Ameryka Śr.,umiarkowane,"['kamienie', 'korzenie', 'roślinka']",jajorodne
+176,Prętnik trójbarwny – miodowy, Trichogaster chuna ,22 - 27°C,4.5 - 5.5 cm,Azja,"mrożony,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+177,Proporczykowiec Gardnera, Fundulopanchax gardneri gardneri ,23 - 26°C,6.5 cm,Afryka,"mrożony,suchy,żywy","['roślinka', 'domek', 'korzenie', 'kamienie']",jajorodne
+178,Proporczykowiec z Kap Lopez, Aphyosemion australe ,21 - 32°C,6 cm,Afryka,"mrożony,suchy,żywy",['roślinka'],jajorodne
+179,Prystelka Barwna, Pristella maxillaris ,22 - 28°C,4 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy",['roślinka'],jajorodne
+180,Pyszczak hełmiasty, Cyphotilapia frontosa ,23 - 27°C,30 cm,Afryka,"glony,mrożony,ślimaki,suchy,żywy","['domek', 'kamienie']",jajorodne
+181,Pyszczak Hongi, Labidochromis hongi ,23 - 28°C,12 cm,Malawi,"glony,roślinny",['roślinka'],jajorodne
+182,Pielęgnica Sajica, Cryptoheros sajica ,24 - 29°C,13 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy","['roślinka', 'korzenie', 'kamienie']",jajorodne
+183,Pielęgnica perłowa, Herichthys cyanoguttatus ,20 - 33°C,30 cm,Ameryka Śr.,"mrożony,suchy,żywy","['korzenie', 'kamienie']",jajorodne
+184,Pielęgnica Uaru, Uaru amphiacanthoides ,26 - 28°C,25 - 30 cm,Ameryka Płd.,umiarkowane,"['korzenie', 'kamienie', 'roślinka']",jajorodne
+185,Pielęgnica severum, Heros efasciatus ,22 - 29°C,25 cm,Ameryka Płd.,"mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+186,Pielęgnica wielobarwna, Paraneetroplus synspilus ,24 - 30°C,35 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy","['domek', 'kamienie', 'korzenie']",jajorodne
+187,Pielęgnica zebra, Amatitlania nigrofasciata ,24 - 28°C,15 cm,Ameryka Śr.,"glony,mrożony,roślinny,suchy,żywy",[],jajorodne
+188,Pielęgniczka Agassiza, Apistogramma agassizii ,22 - 29°C,7.5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'domek', 'kamienie']",jajorodne
+189,Przylga chińska – Cudaczek, Beaufortia kweichowensis ,16 - 24°C,7.5 cm,Azja,"glony,mrożony,roślinny,suchy,żywy","['kamienie', 'korzenie', 'roślinka']",jajorodne
+190,Pielęgniczka Boliwijska, Mikrogeophagus altispinosus ,22 - 26°C,8.5 cm,Ameryka Płd.,łagodne,"['domek', 'kamienie', 'korzenie', 'roślinka']",jajorodne
+191,Przeźroczka indyjska, Parambassis ranga ,20 - 28°C,5 - 7 cm,Azja,"mrożony,roślinny,suchy",['roślinka'],jajorodne
+192,Pyszczak acei – złotopłetwy, Pseudotropheus sp. 'acei' ,24 - 28°C,10 - 15 cm,Malawi,"glony,mrożony,roślinny,suchy,żywy",[],jajorodne
+193,Pstrążenica marmurkowa, Carnegiella strigata ,24 - 28°C,3.5 - 5 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'korzenie']",jajorodne
+194,Pyszczak afra, Cynotilapia afra ,25 - 29°C,10 cm,Afryka,"mrożony,suchy,żywy","['domek', 'roślinka']",jajorodne
+195,Pyszczak Livingstona – plamisty, Nimbochromis livingstonii ,24 - 28°C,25 cm,Afryka,"mrożony,suchy,żywy",[],jajorodne
+196,Pyszczak moorii – Delfinek błękitny, Cyrtocara moorii ,25 - 29°C,25 cm,Afryka,"mrożony,suchy,żywy","['korzenie', 'kamienie', 'domek', 'roślinka']",jajorodne
+197,Pyszczak niebieski, Pseudotropheus socolofi ,24 - 28°C,10.5 cm,Malawi,umiarkowane,['roślinka'],jajorodne
+198,Pyszczak Maingano, Melanochromis cyaneorhabdos ,24 - 28°C,10 cm,Malawi,"glony,mrożony,roślinny,suchy,żywy",['kamienie'],jajorodne
+199,Pielęgniczka Kakadu, Apistogramma cacatuoides ,22 - 29°C,8 cm,Ameryka Płd.,"mrożony,suchy,żywy","['roślinka', 'domek', 'kamienie']",jajorodne
+200,Pielęgniczka Ramireza, Mikrogeophagus ramirezi ,26 - 30°C,4 - 7 cm,Ameryka Płd.,łagodne,"['korzenie', 'kamienie']",jajorodne
+201,Pyszczak nóż – płaskogłowy, Dimidiochromis compressiceps ,23 - 28°C,25 cm,Afryka,"mrożony,suchy,żywy","['domek', 'kamienie', 'roślinka']",jajorodne
+202,Pyszczak Rdzawy, Iodotropheus sprengerae ,25 - 29°C,8 cm,Malawi,"glony,mrożony,roślinny,suchy",['roślinka'],jajorodne
+203,Pyszczak wspaniały, Nimbochromis Venustus ,24 - 28°C,25 cm,Malawi,"mrożony,suchy,żywy",[],jajorodne
+204,Pyszczak wydłużony, Pseudotropheus elongatus ,24 - 28°C,13 cm,Afryka,"glony,mrożony,roślinny,suchy,żywy",['domek'],jajorodne
+205,Pyszczak saulosi, Pseudotropheus saulosi ,26 - 28°C,8 cm,Malawi,umiarkowane,['kamienie'],jajorodne
+206,Pyszczak Yellow – Żółty, Labidochromis caeruleus ,24 - 28°C,10 cm,Malawi,"mrożony,roślinny,suchy,żywy",['domek'],jajorodne
+207,Pirania czerwona – Natterera, Pygocentrus nattereri ,24 - 26°C,30 cm,Ameryka Płd.,żywy,"['roślinka', 'korzenie']",jajorodne
+208,Pielęgniczka żółta – Borelli, Apistogramma borellii ,20 - 26°C,6.5 cm,Ameryka Płd.,umiarkowane,"['korzenie', 'domek', 'roślinka']",jajorodne

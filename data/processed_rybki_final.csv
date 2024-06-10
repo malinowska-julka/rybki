@@ -1,0 +1,210 @@
+,name,latin_name,temperature,length,location,food,kryjowka_info,breeding_info,Lowest_temperature,Top_temperature,food_separator,image_path
+0,Gupik Endlera, Poecilia wingei ,images/hot.png,4,Ameryka Płd.,"['suchy', 'suchy']",domek,żyworodne,22,30,+,GupikEndlera.png
+1,Giętkoząb czarnobrzuchy, Synodontis nigriventris ,images/zimne.png,10,Afryka,"['mrożony', 'suchy']",domek,jajorodne,22,28,/,GiętkoząbCzarnobrzuchy.png
+2,Glonojad syjamski, Gyrinocheilus aymonieri ,images/srednio-ciepla.png,20,Azja,['mrożony'],korzenie,jajorodne,23,28,,GlonojadSyjamski.png
+3,Gurami całujący, Helostoma temminkii ,images/zimno-ciepla.png,20,Azja,"['żywy']",kokos,jajorodne,22,30,/,GuramiCałujący.png
+4,Grubowarg dwubarwny – Labeo, Epalzeorhynchos bicolor ,images/zimne.png,15,Azja,"['żywy', 'żywy', 'mrożony']",domek,jajorodne,22,26,+,Labeo.png
+5,Giętkoząb wielkopłetwy, Synodontis eupterus ,images/hot.png,15,Afryka,"['żywy', 'suchy']",kamienie,jajorodne,22,27,/,
+6,Głowaczyk barwny, Tateurndina ocellicauda ,images/trzy_razem.png,7.5,Nowa Gwinea,"['suchy', 'żywy']",kokos,jajorodne,22,26,/,
+7,Gupik pawie oczko, Poecilia reticulata ,images/srednio-ciepla.png,6,Ameryka Płd.,"['ślimaki', 'suchy', 'żywy']",roślinka,żyworodne,18,32,+,GupikPawieoczko.png
+8,Bystrzyk kolumbijski, Hyphessobrycon columbianus ,images/zimno-srednia.png,5,Ameryka Płd.,"['ślimaki', 'glony', 'mrożony']",korzenie,jajorodne,20,28,+,
+9,Bystrzyk Pereza, Hyphessobrycon erythrostigma ,images/srednie.png,6,Ameryka Płd.,"['ślimaki', 'mrożony', 'random']",kokos,jajorodne,21,28,/,
+10,Gurami czekoladowe, Sphaerichthys osphromenoides ,images/srednio-ciepla.png,4,Azja,"['żywy', 'suchy']",korzenie,jajorodne,23,30,+,
+11,Bystrzyk Ozdobny, Hyphessobrycon bentosi ,images/trzy_razem.png,4.5,Ameryka Płd.,"['mrożony', 'żywy']",domek,jajorodne,24,28,+,BystrzykOzdobny.png
+12,Tetra czerwona, Hyphessobrycon flammeus ,images/hot.png,4.5,Ameryka Śr.,"['mrożony', 'mrożony']",roślinka,jajorodne,22,27,+,BystrzykCzerwony.png
+13,Gurami samuraj, Sphaerichthys vaillanti ,images/zimno-ciepla.png,4.5,Azja,"['żywy', 'suchy']",roślinka,jajorodne,21,25,+,
+14,Gurami mozaikowy, Trichopodus leerii ,images/zimno-ciepla.png,12,Azja,"['żywy', 'żywy']",roślinka,jajorodne,24,30,+,GuramiMozaikowy.png
+15,Księżniczka z Burundi, Neolamprologus brichardi ,images/srednio-ciepla.png,7,Tanganika,"['ślimaki', 'random']",roślinka,jajorodne,23,27,/,
+16,Gurami dwuplamy, Trichopodus trichopterus ,images/hot.png,13,Azja,['mrożony'],roślinka,jajorodne,24,30,,GuramiDwuplamisty.png
+17,Mułojad, Acantopsis dialuzona ,images/zimne.png,20,Azja,['mrożony'],roślinka,jajorodne,24,28,,
+18,Cierniooczek Kuhla, Pangio semicincta ,images/zimno-srednia.png,9,Azja,"['żywy', 'suchy']",kamienie,jajorodne,21,26,+,CierniooczekKuhla.png
+19,Czerwieniak dwuplamy – cętkowany, Hemichromis guttatus ,images/srednio-ciepla.png,12,Afryka,"['random', 'mrożony']",kokos,jajorodne,22,28,+,
+20,Zbrojnik czerwony, Rineloricaria sp. red ,images/srednio-ciepla.png,12,Ameryka Płd.,"['suchy', 'glony']",kamienie,jajorodne,24,29,/,
+21,Danio erythromicron, Celestichthys erythromicron ,images/zimne.png,2,Azja,['suchy'],kokos,jajorodne,20,24,,
+22,Czerwieniak kongijski, Hemichromis lifalili ,images/zimne.png,10,Afryka,['ślimaki'],kamienie,jajorodne,22,24,,
+23,Danio lamparci, Brachydanio rerio var. frankei ,images/zimne.png,5,Azja,"['suchy', 'mrożony']",roślinka,jajorodne,18,24,/,DanioLamparci.png
+24,Danio malabarski, Devario malabaricus ,images/zimne.png,10,Azja,['mrożony'],kokos,jajorodne,21,25,,
+25,Kosiarka – Grubowarg syjamski, Crossocheilus langei ,images/zimno-srednia.png,15,Azja,"['glony', 'mrożony']",kamienie,jajorodne,22,26,/,
+26,Danio zebra, Brachydanio rerio ,images/zimno-srednia.png,5,Azja,"['ślimaki', 'glony', 'żywy']",roślinka,jajorodne,18,24,+,DanioPręgowany.png
+27,Microrasbora kubotai, Microdevario kubotai ,images/trzy_razem.png,1.9,Azja,"['żywy', 'żywy', 'suchy']",korzenie,jajorodne,20,27,+,
+28,Grubowarg zielony, Epalzeorhynchos frenatum ,images/trzy_razem.png,15,Azja,"['suchy', 'glony', 'żywy']",kamienie,jajorodne,22,26,/,Labeo.png
+29,Modrook słoneczny, Popondichthys furcatus ,images/srednie.png,4,Nowa Gwinea,"['suchy', 'mrożony']",kamienie,jajorodne,24,28,+,
+30,Modrook Gertrudy, Pseudomugil gertrudae ,images/trzy_razem.png,3,Nowa Gwinea,"['mrożony', 'żywy', 'suchy']",kamienie,jajorodne,21,28,+,
+31,Molinezja Ostrousta, Poecilia sphenops ,images/hot.png,10,Ameryka Płd.,"['żywy', 'glony']",kokos,żyworodne,24,29,/,MolinezjaOstrousta.png
+32,Mieczyk Hellera, Xiphophorus hellerii ,images/zimno-ciepla.png,12,Ameryka Śr.,"['suchy', 'glony']",roślinka,żyworodne,24,27,/,
+33,Miedzik obrzeżony, Hasemania nana ,images/srednie.png,5,Ameryka Płd.,"['żywy', 'mrożony', 'suchy']",domek,jajorodne,23,28,/,
+34,Molinezja żaglopłetwa, Poecilia velifera ,images/zimno-srednia.png,15,Ameryka Śr.,"['mrożony', 'mrożony']",roślinka,żyworodne,22,28,+,MolinezjaŻaglopłetwa.png
+35,Motylowiec, Pantodon buchholzi ,images/hot.png,12,Afryka,"['mrożony', 'żywy']",roślinka,jajorodne,23,30,+,
+36,Danio tęczowy, Brachydanio albolineata ,images/trzy_razem.png,5,Azja,"['random', 'żywy', 'suchy']",korzenie,jajorodne,16,25,/,DanioTęczowy.png
+37,Drewniak dwubarwny, Bunocephalus coracoideus ,images/hot.png,15,Ameryka Płd.,"['suchy']",korzenie,jajorodne,20,27,/,
+38,Długonos ciernisty – Węgorzyk, Macrognathus aculeatus ,images/srednie.png,30,Azja,"['mrożony', 'żywy', 'mrożony']",korzenie,jajorodne,22,28,+,
+39,Drobniczka jednodniówka, Heterandria formosa ,images/zimno-srednia.png,3.5,Ameryka Śr.,"['ślimaki', 'mrożony', 'random']",roślinka,żyworodne,20,26,+,DrobniczkaJednodniówka.png
+40,Drobnotka nadobna, Neoheterandria elegans ,images/zimne.png,2.5,Ameryka Płd.,['random'],roślinka,żyworodne,22,26,,
+41,Drobnoustek Beckforda – ozdobny, Nannostomus beckfordi ,images/srednio-ciepla.png,5,Ameryka Płd.,"['suchy', 'żywy', 'mrożony']",roślinka,jajorodne,22,27,/,DrobnoustekBeckforda.png
+42,Drobnoustek obrzeżony, Nannostomus marginatus ,images/srednie.png,3.5,Ameryka Płd.,['suchy'],korzenie,jajorodne,22,28,,DrobnoustekObrzeżony.png
+43,Duch Amazoński – Brazylijski, Apteronotus albifrons ,images/zimno-srednia.png,30,Ameryka Płd.,"['suchy', 'suchy', 'żywy']",kamienie,jajorodne,23,28,+,
+44,Garra panda, Garra flavatra ,images/hot.png,7,Azja,"['mrożony', 'suchy', 'suchy']",kokos,jajorodne,19,27,+,
+45,Fantom czarny – Barwieniec czarny, Hyphessobrycon megalopterus ,images/zimno-srednia.png,4.5,Ameryka Płd.,"['żywy', 'żywy', 'żywy']",roślinka,jajorodne,22,28,+,
+46,Fantom czerwony – Barwieniec czerwony, Hyphessobrycon sweglesi ,images/hot.png,4.5,Ameryka Płd.,"['żywy', 'suchy']",korzenie,jajorodne,22,27,/,
+47,Błyszczyk parański, Moenkhausia sanctaefilomenae ,images/zimno-ciepla.png,7,Ameryka Płd.,"['ślimaki', 'mrożony']",domek,jajorodne,22,26,+,
+48,Garra rufa – Brzana ssąca, Garra rufa ,images/srednie.png,5,Azja,"['mrożony', 'suchy', 'żywy']",korzenie,jajorodne,15,28,/,
+49,Bass słoneczny, Lepomis gibbosus ,images/zimno-srednia.png,15,Ameryka Płn.,"['ślimaki', 'suchy']",korzenie,jajorodne,4,22,+,BassSłoneczny.png
+50,Bocja indochińska, Syncrossus berdmorei ,images/zimne.png,20,Azja,['ślimaki'],korzenie,jajorodne,21,26,,BocjaIndochińska.png
+51,Bocja karłowata, Ambastaia sidthimunki ,images/hot.png,5,Azja,"['ślimaki', 'random', 'suchy']",kokos,jajorodne,24,30,/,bocjaKarłowata.png
+52,Bocja Kubotai, Botia kubotai ,images/zimno-srednia.png,15,Azja,"['random', 'ślimaki', 'suchy']",kokos,jajorodne,22,28,+,
+53,Bocja mysia – Bocja syjamska, Yasuhikotakia morleti ,images/srednio-ciepla.png,7.5,Azja,['ślimaki'],kamienie,jajorodne,23,28,,BocjaMysia.png
+54,Bocja pręgowana, Botia striata ,images/zimno-ciepla.png,8,Azja,"['ślimaki', 'mrożony']",kamienie,jajorodne,21,26,+,
+55,Bocja tygrysia, Syncrossus helodes ,images/trzy_razem.png,25,Azja,"['random', 'żywy']",kokos,jajorodne,24,30,/,BocjaTygrysia.png
+56,Bocja siatkowana, Botia almorhae ,images/srednio-ciepla.png,10,Azja,"['random', 'glony']",domek,jajorodne,19,27,/,
+57,Bocja szara – modesta, Yasuhikotakia modesta ,images/trzy_razem.png,18,Azja,"['ślimaki', 'random', 'glony']",korzenie,jajorodne,23,28,+,
+58,Bocja wspaniała, Chromobotia macracanthus ,images/trzy_razem.png,20,Azja,"['random', 'ślimaki', 'glony']",kokos,jajorodne,24,30,+,BocjaWspaniała.png
+59,Bojownik bezbronny – karłowaty, Betta imbellis ,images/srednie.png,6,Azja,"['random', 'żywy']",kokos,jajorodne,24,28,+,
+60,Brzanka Denisona, Sahyadria denisonii ,images/zimne.png,14,Azja,"['glony', 'suchy']",kamienie,jajorodne,15,25,+,
+61,Bojownik wspaniały – syjamski, Betta splendens ,images/hot.png,6.5,Azja,"['random', 'suchy', 'mrożony']",roślinka,jajorodne,24,30,+,BojownikWspaniały.png
+62,Brzanka odeska – Brzanka dwuplama, Pethia padamya ,images/zimne.png,4,Azja,"['mrożony', 'mrożony']",domek,jajorodne,16,25,+,BrzankaOdeska.png
+63,Brzanka różowa, Pethia conchonius ,images/zimno-ciepla.png,9,Azja,"['żywy', 'suchy']",domek,jajorodne,16,24,+,BrzankaRóżowa.png
+64,Brzanka rekinia, Balantiocheilos melanopterus ,images/trzy_razem.png,25,Azja,"['suchy', 'żywy']",roślinka,jajorodne,22,28,/,
+65,Akara pomarańczowopłetwa, Andinoacara rivulatus ,images/zimne.png,20,Ameryka Płd.,['random'],korzenie,jajorodne,20,25,,AkaraPomarańczowopłetwa.png
+66,Brzanka wysmukła – titteya, Puntius titteya ,images/trzy_razem.png,4,Azja,"['żywy', 'suchy', 'suchy']",kokos,jajorodne,20,27,+,BrzankaWysmukła.png
+67,Brzanka sumatrzańska, Puntigrus tetrazona ,images/trzy_razem.png,5,Azja,"['żywy', 'mrożony', 'żywy']",domek,jajorodne,22,26,+,BrzankaSumatrzańska.png
+68,Buszowiec ostropyski, Ctenopoma acutirostre ,images/zimne.png,15,Afryka,"['mrożony', 'żywy']",kokos,jajorodne,23,28,/,BuszowiecOstropyski.png
+69,Bystrzyk barwny, Hyphessobrycon eques ,images/srednio-ciepla.png,3,Ameryka Płd.,"['żywy', 'mrożony', 'żywy']",kokos,jajorodne,22,28,+,BystrzykBarwny.png
+70,Bystrzyk amandy, Hyphessobrycon amandae ,images/zimno-srednia.png,2,Ameryka Płd.,['żywy'],kokos,jajorodne,23,28,,
+71,Bystrzyk cytrynowy – pięknopłetwy, Hyphessobrycon pulchripinnis ,images/trzy_razem.png,3.5,Ameryka Płd.,"['suchy', 'żywy']",kamienie,jajorodne,23,28,+,BystrzykCytrynowy.png
+72,Akara z Maroni, Cleithracara maronii ,images/srednio-ciepla.png,10,Ameryka Płd.,['mrożony'],kokos,jajorodne,22,28,,AkaraZMaroni.png
+73,Akara błękitna, Andinoacara pulcher ,images/trzy_razem.png,14,Ameryka Płd.,['random'],korzenie,jajorodne,22,28,,
+74,Akarka czerwonobrzucha – wiśniowa, Laetacara dorsigera ,images/srednio-ciepla.png,7,Ameryka Płd.,['żywy'],domek,jajorodne,20,28,,AkarkaCzerwonoBrzucha.png
+75,Akarka paskowana, Nannacara anomala ,images/zimne.png,7.5,Ameryka Płd.,"['żywy', 'żywy', 'suchy']",korzenie,jajorodne,22,26,+,AkarkaPaskowana.png
+76,Hokejówka amazońska, Thayeria boehlkei ,images/zimno-srednia.png,6,Ameryka Płd.,"['suchy', 'suchy', 'żywy']",kamienie,jajorodne,22,28,+,HokejówkaAmazońska.png
+77,Kardynałek chiński, Tanichthys albonubes ,images/zimno-ciepla.png,4,Azja,"['suchy', 'żywy']",kamienie,jajorodne,16,22,+,
+78,Ameka wspaniała, Ameca splendens ,images/srednio-ciepla.png,10,Ameryka Płn.,"['glony', 'żywy']",kamienie,żyworodne,20,30,/,AmekaWspaniała.png
+79,Babka złota, Brachygobius doriae ,images/srednio-ciepla.png,3,Azja,"['ślimaki', 'glony', 'żywy']",domek,jajorodne,24,28,+,BabkaZłota.png
+80,Babka tęczowa, Stiphodon ornatus ,images/trzy_razem.png,6.5,Azja,['ślimaki'],kokos,jajorodne,20,28,,
+81,Barwniak szmaragdowy, Pelvicachromis taeniatus ,images/trzy_razem.png,8,Afryka,['suchy'],domek,jajorodne,22,26,,
+82,Badis bengalski – Dario dario, Dario dario ,images/zimne.png,2,Azja,['żywy'],domek,jajorodne,18,26,,
+83,Kirysek pigmej, Corydoras pygmaeus ,images/zimne.png,3,Ameryka Płd.,"['ślimaki', 'glony']",kamienie,jajorodne,22,26,/,
+84,Barwniak czerwonobrzuchy, Pelvicachromis pulcher ,images/trzy_razem.png,10,Afryka,['mrożony'],korzenie,jajorodne,24,27,,BarwniakCzerwonobrzuchy.png
+85,Gurami syjamski, Trichopodus pectoralis ,images/hot.png,17,Azja,['suchy'],roślinka,jajorodne,22,30,,GuramiSyjamski.png
+86,Barwniak Thomasa, Anomalochromis thomasi ,images/zimno-ciepla.png,9,Afryka,"['żywy', 'żywy']",kokos,jajorodne,23,27,+,
+87,Kirysek czarny, Corydoras schultzei ,images/zimno-ciepla.png,7.5,Ameryka Płd.,"['żywy', 'żywy']",domek,jajorodne,21,27,+,
+88,Kirys grzebykoczelny, Agamyxis pectinifrons ,images/zimne.png,12,Ameryka Płd.,"['ślimaki', 'random', 'suchy']",korzenie,jajorodne,22,26,/,
+89,Kirysek albinos, Corydoras aeneus albino ,images/srednie.png,5,Ameryka Płd.,"['mrożony', 'żywy', 'żywy']",domek,jajorodne,20,28,+,
+90,Kirysek Julii – Kirysek nakrapiany, Corydoras julii ,images/zimne.png,5.2,Ameryka Płd.,"['żywy']",korzenie,jajorodne,23,26,/,KirysekJulii.png
+91,Kirysek pstry, Corydoras paleatus ,images/zimne.png,7,Ameryka Płd.,"['suchy', 'suchy']",kokos,jajorodne,20,26,+,
+92,Kirysek spiżowy, Corydoras aeneus ,images/srednio-ciepla.png,7,Ameryka Płd.,"['random', 'glony']",roślinka,jajorodne,20,28,+,
+93,Kirysek karłowaty – sierpoplamy, Corydoras hastatus ,images/srednie.png,2.4,Ameryka Płd.,['żywy'],roślinka,jajorodne,20,28,,
+94,Kirysek kolumbijski, Corydoras metae ,images/zimne.png,4,Ameryka Płd.,"['żywy', 'suchy']",korzenie,jajorodne,22,26,+,
+95,Kirysek lamparci, Corydoras leopardus ,images/zimno-ciepla.png,7.5,Ameryka Płd.,['żywy'],kokos,jajorodne,20,26,,
+96,Kirysek malutki, Corydoras habrosus ,images/zimne.png,3,Ameryka Płd.,"['ślimaki', 'glony']",kokos,jajorodne,22,26,+,
+97,Kirysek panda, Corydoras panda ,images/zimne.png,5,Ameryka Płd.,"['ślimaki', 'suchy']",korzenie,jajorodne,22,25,+,
+98,Kolcobrzuch karłowaty, Carinotetraodon travancoricus ,images/srednie.png,2.5,Azja,"['ślimaki']",korzenie,jajorodne,22,28,/,
+99,Kirysek strumieniowy – pasiasty, Corydoras arcuatus ,images/trzy_razem.png,7,Ameryka Płd.,"['mrożony']",korzenie,jajorodne,22,26,/,
+100,Kirysek Sterby, Corydoras Sterbai ,images/zimne.png,6.5,Ameryka Płd.,['żywy'],korzenie,jajorodne,21,25,,
+101,Kirysek szmaragdowy, Corydoras splendens ,images/srednio-ciepla.png,9,Ameryka Płd.,"['mrożony', 'suchy', 'żywy']",korzenie,jajorodne,22,28,+,
+102,Kirysek trójpręgi, Corydoras trilineatus ,images/zimne.png,5.5,Ameryka Płd.,"['random', 'suchy']",korzenie,jajorodne,22,26,+,
+103,Kirysek wspaniały – mozaikowy, Corydoras haraldschultzi ,images/zimno-srednia.png,7.5,Ameryka Płd.,['żywy'],korzenie,jajorodne,24,28,,
+104,Kolcobrzuch dwuplamy, Tetraodon biocellatus ,images/zimno-ciepla.png,8,Azja,"['suchy', 'mrożony']",kokos,jajorodne,22,26,/,
+105,Kiryśnik czarnoplamy, Megalechis thoracata ,images/trzy_razem.png,15,Ameryka Płd.,"['mrożony', 'suchy', 'mrożony']",korzenie,jajorodne,18,28,+,
+106,Sum rekini, Pangasianodon hypophthalmus ,images/zimne.png,90,Azja,"['suchy', 'żywy']",domek,jajorodne,22,26,/,
+107,Kolcobrzuch zielony, Tetraodon nigroviridis ,images/srednie.png,15,Azja,['mrożony'],kokos,jajorodne,24,28,,KolcobrzuchZielony.png
+108,Sum liniowy – Platydora kolczasta, Platydoras armatulus ,images/trzy_razem.png,20,Ameryka Płd.,"['mrożony', 'suchy']",kokos,jajorodne,23,30,+,
+109,Tęczanka Wernera – filigranowa, Iriatherina werneri ,images/hot.png,4,Nowa Gwinea,"['mrożony', 'suchy']",korzenie,jajorodne,22,30,+,
+110,Tetra Cesarska, Nematobrycon palmeri ,images/hot.png,5,Ameryka Płd.,"['mrożony', 'suchy']",domek,jajorodne,23,27,+,
+111,Sumik Szklisty, Kryptopterus minor ,images/zimne.png,8,Azja,"['żywy', 'żywy']",roślinka,jajorodne,21,26,+,
+112,Świecik kongolański – kongijski, Phenacogrammus interruptus ,images/zimno-srednia.png,8,Afryka,"['mrożony', 'mrożony']",kamienie,jajorodne,23,28,+,
+113,Szczelinowiec Leleupa, Neolamprologus Leleupi ,images/hot.png,10,Tanganika,['mrożony'],domek,jajorodne,23,27,,
+114,Zbrojnik lamparci, Glyptoperichthys gibbiceps ,images/zimno-srednia.png,40,Ameryka Płd.,"['żywy', 'suchy']",domek,jajorodne,24,28,/,
+115,Szczupieńczyk Dageta, Epiplatys dageti dageti ,images/zimno-srednia.png,6,Afryka,"['suchy', 'mrożony']",domek,jajorodne,21,25,/,
+116,Trzciniak, Erpetoichthys calabaricus ,images/hot.png,60,Afryka,"['mrożony', 'żywy']",domek,jajorodne,23,30,+,
+117,Zbrojnik pospolity – glonojad, Ancistrus sp. ,images/trzy_razem.png,10,Ameryka Płd.,"['random', 'żywy']",kokos,jajorodne,18,27,+,
+118,Szczupieńczyk Karłowaty, Epiplatys annulatus ,images/zimne.png,4,Afryka,['suchy'],kamienie,jajorodne,24,26,,
+119,Zagrzebka Rachowa, Nothobranchius rachovii ,images/zimne.png,5.5,Afryka,['random'],kamienie,jajorodne,21,26,,
+120,Zagrzebka afrykańska – Suszec Gunthera, Nothobranchius guentheri ,images/hot.png,3.5,Afryka,"['random', 'żywy', 'random']",korzenie,jajorodne,20,27,+,
+121,Wielkopłetw wspaniały, Macropodus opercularis ,images/hot.png,7,Azja,"['suchy', 'mrożony']",kokos,jajorodne,16,27,+,
+122,Zbrojnik niebieski, Ancistrus dolichopterus ,images/srednie.png,10,Ameryka Płd.,"['random', 'mrożony']",roślinka,jajorodne,23,28,+,
+123,Zbrojnik zebra, Hypancistrus zebra ,images/zimno-ciepla.png,10,Ameryka Płd.,"['suchy', 'żywy']",kamienie,jajorodne,26,30,+,
+124,Żałobniczka – czarna Tetra, Gymnocorymbus ternetzi ,images/zimno-srednia.png,6,Ameryka Płd.,"['mrożony', 'mrożony', 'suchy']",roślinka,jajorodne,20,26,+,
+125,Zbrojnik złoty, Ancistrus sp. L144 ,images/zimno-ciepla.png,11,Ameryka Płd.,"['glony', 'żywy', 'mrożony']",kamienie,jajorodne,21,26,/,
+126,Tęczanka Neonowa, Melanotaenia praecox ,images/zimno-srednia.png,6,Nowa Gwinea,['suchy'],roślinka,jajorodne,23,28,,
+127,Tęczanka Czerwona, Glossolepis incisus ,images/zimno-ciepla.png,15,Nowa Gwinea,"['suchy', 'mrożony']",roślinka,jajorodne,22,26,+,
+128,Żółtaczek indyjski, Etroplus maculatus ,images/srednie.png,7,Azja,"['random', 'żywy']",domek,jajorodne,20,28,+,
+129,Tęczanka niebieska, Melanotaenia lacustris ,images/zimne.png,12,Nowa Gwinea,"['suchy', 'mrożony']",roślinka,jajorodne,20,25,+,
+130,Tęczanka Boesemana, Melanotaenia boesemani ,images/zimno-ciepla.png,11,Nowa Gwinea,"['suchy', 'żywy', 'żywy']",kamienie,jajorodne,25,29,+,
+131,Tęczanka trójpręga, Melanotaenia trifasciata ,images/trzy_razem.png,13,Australia,"['żywy', 'mrożony']",roślinka,jajorodne,24,30,/,
+132,Ziemiojad orange head Tapajos, Geophagus sp. orange head ,images/zimno-ciepla.png,20,Ameryka Płd.,"['random', 'random']",korzenie,jajorodne,25,30,+,
+133,Złota rybka – Welon, Carassius auratus ,images/zimno-ciepla.png,10,Azja,"['suchy', 'żywy']",kokos,jajorodne,16,24,+,
+134,Zmienniak plamisty – Platka, Xiphophorus maculatus ,images/zimno-srednia.png,6,Ameryka Śr.,"['ślimaki', 'suchy', 'suchy']",kamienie,żyworodne,18,26,+,
+135,Zwinnik jarzeniec, Hemigrammus erythrozonus ,images/zimno-srednia.png,4,Ameryka Płd.,"['suchy', 'suchy']",roślinka,jajorodne,24,28,+,
+136,Zwinnik Blehera, Hemigrammus bleheri ,images/srednio-ciepla.png,5,Ameryka Płd.,['żywy'],kokos,jajorodne,23,27,,
+137,Mruk Petersa – Trąbonos, Gnathonemus petersii ,images/srednie.png,22,Afryka,"['mrożony', 'suchy']",kokos,jajorodne,23,28,+,
+138,Muszlowiec krótki, Neolamprologus brevis ,images/srednio-ciepla.png,6,Tanganika,"['suchy']",kokos,jajorodne,23,27,/,
+139,Muszlowiec wielopręgi, Neolamprologus multifasciatus ,images/hot.png,4.5,Afryka,['żywy'],kokos,jajorodne,24,27,,
+140,Naskalnik Dickfelda, Julidochromis dickfeldi ,images/hot.png,8,Tanganika,"['suchy', 'żywy']",roślinka,jajorodne,23,27,+,
+141,Razbora Hengela, Trigonostigma hengeli ,images/zimno-srednia.png,3.5,Azja,"['żywy', 'żywy']",kamienie,jajorodne,23,28,+,
+142,Naskalnik kędzierzawy – ozdobny, Julidochromis ornatus ,images/trzy_razem.png,8,Tanganika,['mrożony'],kokos,jajorodne,23,27,,
+143,Naskalnik Marliera, Julidochromis marlieri ,images/zimno-ciepla.png,13,Tanganika,"['mrożony', 'żywy']",domek,jajorodne,23,27,/,
+144,Pyszczak Zebra Red, Maylandia estherae ,images/srednio-ciepla.png,13,Malawi,"['glony', 'glony', 'mrożony']",kokos,jajorodne,24,28,+,
+145,Pyszczak złocisty, Melanochromis auratus ,images/srednie.png,11,Malawi,"['suchy', 'żywy', 'suchy']",kokos,jajorodne,24,28,+,
+146,Razbora Espei, Trigonostigma espei ,images/zimne.png,3.5,Azja,"['ślimaki', 'ślimaki', 'random']",korzenie,jajorodne,23,28,+,
+147,Razbora Borneańska – Brigittae, Boraras brigittae ,images/zimne.png,2,Azja,"['suchy', 'żywy']",kokos,jajorodne,23,28,/,
+148,Naskalnik Regana, Julidochromis regani ,images/zimno-ciepla.png,15,Tanganika,"['mrożony', 'mrożony']",kamienie,jajorodne,23,27,+,
+149,Razbora klinowa, Trigonostigma heteromorpha ,images/zimne.png,3.5,Azja,"['żywy', 'mrożony']",korzenie,jajorodne,21,28,+,
+150,Neon czarny – Bystrzyk Axelroda, Hyphessobrycon herbertaxelrodi ,images/srednio-ciepla.png,4,Ameryka Płd.,"['ślimaki', 'random']",korzenie,jajorodne,23,28,+,NeonCzarny.png
+151,Naskalnik wężogłowy, Julidochromis transcriptus ,images/zimno-ciepla.png,7,Tanganika,"['żywy', 'mrożony', 'suchy']",roślinka,jajorodne,23,27,/,
+152,Neon Innesa, Paracheirodon innesi ,images/zimno-ciepla.png,3,Ameryka Płd.,"['ślimaki', 'glony', 'glony']",domek,jajorodne,20,26,+,NeonInnesa.png
+153,Neon czerwony, Paracheirodon axelrodi ,images/srednio-ciepla.png,4,Ameryka Płd.,['ślimaki'],roślinka,jajorodne,23,29,,NeonCzerwony.png
+154,Razbora plamista – karłowata, Boraras maculatus ,images/srednie.png,2.5,Azja,"['żywy']",korzenie,jajorodne,24,28,/,
+155,Neon zielony – Neon simulans, Paracheirodon simulans ,images/srednio-ciepla.png,2.5,Ameryka Płd.,"['ślimaki', 'suchy']",korzenie,jajorodne,21,35,+,
+156,Skrzeczyk pręgowany, Trichopsis vittata ,images/trzy_razem.png,6,Azja,"['mrożony', 'żywy', 'suchy']",kokos,jajorodne,22,28,/,
+157,Skalar – Żaglowiec, Pterophyllum scalare ,images/srednio-ciepla.png,15,Ameryka Płd.,"['random', 'ślimaki', 'mrożony']",kokos,jajorodne,24,30,+,
+158,Skalar altum – Żaglowiec wysoki, Pterophyllum altum ,images/hot.png,18,Ameryka Płd.,"['ślimaki', 'glony']",domek,jajorodne,27,31,+,
+159,Skrzeczyk karłowaty, Trichopsis pumila ,images/trzy_razem.png,3.5,Azja,['żywy'],kamienie,jajorodne,22,28,,
+160,Paletka – Dyskowiec, Symphysodon aequifasciatus ,images/zimno-ciepla.png,20,Ameryka Płd.,['suchy'],kokos,jajorodne,26,30,,Paletka.png
+161,Sum indyjski – Długowąs azjatycki, Heteropneustes fossilis ,images/zimno-srednia.png,25,Azja,"['random', 'żywy', 'ślimaki']",korzenie,jajorodne,21,25,+,
+162,Niebiański Danio perłowy – Razbora galaxy, Danio margaritatus ,images/hot.png,2.5,Azja,"['random', 'ślimaki', 'mrożony']",korzenie,jajorodne,22,27,+,
+163,Otosek przyujściowy, Otocinclus macrospilus ,images/srednio-ciepla.png,3.5,Ameryka Płd.,['suchy'],domek,jajorodne,21,27,,
+164,Pielęgnica cytrynowa, Amphilophus citrinellus ,images/srednie.png,25,Ameryka Śr.,"['mrożony', 'glony', 'glony']",kokos,jajorodne,22,28,+,
+165,Pielęgnica diamentowa – Salvini, Cichlasoma salvini ,images/hot.png,18,Ameryka Śr.,"['suchy', 'suchy']",kokos,jajorodne,22,32,+,
+166,Pielęgnica managuańska, Parachromis managuensis ,images/zimne.png,40,Ameryka Śr.,"['suchy']",domek,jajorodne,24,28,/,
+167,Pielęgnica Meeka, horichthys meeki ,images/zimne.png,13,Ameryka Śr.,"['suchy', 'suchy']",korzenie,jajorodne,21,26,+,PielęgnicaMeeka.png
+168,Pielęgnica miodowa, Archocentrus multispinosus ,images/srednie.png,10,Ameryka Śr.,['mrożony'],kokos,jajorodne,22,28,,
+169,Pielęgnica nikaraguańska, Hypsophrys nicaraguensis ,images/srednie.png,25,Ameryka Śr.,['żywy'],korzenie,jajorodne,23,28,,
+170,Pielęgnica niebieskołuska – plamista, Rocio octofasciata ,images/hot.png,15,Ameryka Płd.,"['suchy', 'suchy']",kokos,jajorodne,22,30,+,
+171,Pielęgnica papuzia, Parrot Cichlid ,images/hot.png,15,Ameryka Płd.,"['mrożony', 'suchy', 'mrożony']",kamienie,jajorodne,23,29,+,
+172,Prętnik Karłowaty, Trichogaster lalius ,images/hot.png,7.5,Azja,['mrożony'],domek,jajorodne,22,27,,PrętnikKarłowaty.png
+173,Płaskobok tępogłowy – ozdobny, Metynnis hypsauchen ,images/zimne.png,15,Ameryka Płd.,['mrożony'],roślinka,jajorodne,24,28,,PłaskobokTępogłowy.png
+174,Półdziobek karłowaty, Dermogenys pusilla ,images/zimno-srednia.png,7,Azja,"['mrożony']",roślinka,żyworodne,24,28,/,
+175,Pielęgnica pawiooka – Oskar, Astronotus ocellatus ,images/srednie.png,25,Ameryka Śr.,"['ślimaki', 'suchy', 'żywy']",korzenie,jajorodne,21,28,+,PielęgnicaPawiooka.png
+176,Prętnik trójbarwny – miodowy, Trichogaster chuna ,images/hot.png,4.5,Azja,['żywy'],kokos,jajorodne,22,27,,
+177,Proporczykowiec Gardnera, Fundulopanchax gardneri gardneri ,images/zimno-ciepla.png,6.5,Afryka,"['żywy']",kamienie,jajorodne,23,26,/,
+178,Proporczykowiec z Kap Lopez, Aphyosemion australe ,images/srednio-ciepla.png,6,Afryka,['suchy'],roślinka,jajorodne,21,32,,
+179,Prystelka Barwna, Pristella maxillaris ,images/srednie.png,4,Ameryka Płd.,"['mrożony', 'żywy']",roślinka,jajorodne,22,28,/,
+180,Pyszczak hełmiasty, Cyphotilapia frontosa ,images/zimno-ciepla.png,30,Afryka,"['żywy', 'glony']",korzenie,jajorodne,23,27,+,
+181,Pyszczak Hongi, Labidochromis hongi ,images/trzy_razem.png,12,Malawi,['glony'],roślinka,jajorodne,23,28,,
+182,Pielęgnica Sajica, Cryptoheros sajica ,images/hot.png,13,Ameryka Śr.,['glony'],kamienie,jajorodne,24,29,,
+183,Pielęgnica perłowa, Herichthys cyanoguttatus ,images/hot.png,30,Ameryka Śr.,"['żywy', 'mrożony']",roślinka,jajorodne,20,33,/,
+184,Pielęgnica Uaru, Uaru amphiacanthoides ,images/srednio-ciepla.png,25,Ameryka Płd.,['random'],kokos,jajorodne,26,28,,
+185,Pielęgnica severum, Heros efasciatus ,images/hot.png,25,Ameryka Płd.,['żywy'],kamienie,jajorodne,22,29,,PielęgnicaSeverum.png
+186,Pielęgnica wielobarwna, Paraneetroplus synspilus ,images/hot.png,35,Ameryka Śr.,"['mrożony', 'żywy']",roślinka,jajorodne,24,30,/,
+187,Pielęgnica zebra, Amatitlania nigrofasciata ,images/trzy_razem.png,15,Ameryka Śr.,['suchy'],kokos,jajorodne,24,28,,
+188,Pielęgniczka Agassiza, Apistogramma agassizii ,images/zimno-ciepla.png,7.5,Ameryka Płd.,['suchy'],kamienie,jajorodne,22,29,,PielęgniczkaAgassiza.png
+189,Przylga chińska – Cudaczek, Beaufortia kweichowensis ,images/trzy_razem.png,7.5,Azja,['mrożony'],kokos,jajorodne,16,24,,
+190,Pielęgniczka Boliwijska, Mikrogeophagus altispinosus ,images/zimne.png,8.5,Ameryka Płd.,"['ślimaki', 'glony', 'glony']",kamienie,jajorodne,22,26,+,
+191,Przeźroczka indyjska, Parambassis ranga ,images/srednio-ciepla.png,5,Azja,"['mrożony', 'suchy']",roślinka,jajorodne,20,28,/,
+192,Pyszczak acei – złotopłetwy, Pseudotropheus sp. 'acei' ,images/zimno-srednia.png,10,Malawi,"['mrożony']",kokos,jajorodne,24,28,/,
+193,Pstrążenica marmurkowa, Carnegiella strigata ,images/srednio-ciepla.png,3.5,Ameryka Płd.,['żywy'],korzenie,jajorodne,24,28,,
+194,Pyszczak afra, Cynotilapia afra ,images/trzy_razem.png,10,Afryka,"['żywy', 'suchy']",korzenie,jajorodne,25,29,/,
+195,Pyszczak Livingstona – plamisty, Nimbochromis livingstonii ,images/zimne.png,25,Afryka,['żywy'],kokos,jajorodne,24,28,,
+196,Pyszczak moorii – Delfinek błękitny, Cyrtocara moorii ,images/trzy_razem.png,25,Afryka,"['żywy', 'suchy']",kamienie,jajorodne,25,29,+,
+197,Pyszczak niebieski, Pseudotropheus socolofi ,images/srednio-ciepla.png,10.5,Malawi,['ślimaki'],roślinka,jajorodne,24,28,,
+198,Pyszczak Maingano, Melanochromis cyaneorhabdos ,images/zimno-srednia.png,10,Malawi,"['suchy', 'suchy']",kamienie,jajorodne,24,28,+,
+199,Pielęgniczka Kakadu, Apistogramma cacatuoides ,images/hot.png,8,Ameryka Płd.,"['suchy', 'żywy']",kamienie,jajorodne,22,29,+,
+200,Pielęgniczka Ramireza, Mikrogeophagus ramirezi ,images/srednio-ciepla.png,4,Ameryka Płd.,['ślimaki'],kamienie,jajorodne,26,30,,PielęgniczkaRamireza.png
+201,Pyszczak nóż – płaskogłowy, Dimidiochromis compressiceps ,images/srednie.png,25,Afryka,['mrożony'],domek,jajorodne,23,28,,
+202,Pyszczak Rdzawy, Iodotropheus sprengerae ,images/zimno-ciepla.png,8,Malawi,['suchy'],roślinka,jajorodne,25,29,,
+203,Pyszczak wspaniały, Nimbochromis Venustus ,images/trzy_razem.png,25,Malawi,"['suchy', 'żywy', 'suchy']",kokos,jajorodne,24,28,+,
+204,Pyszczak wydłużony, Pseudotropheus elongatus ,images/zimne.png,13,Afryka,"['żywy', 'glony']",domek,jajorodne,24,28,+,
+205,Pyszczak saulosi, Pseudotropheus saulosi ,images/srednie.png,8,Malawi,['ślimaki'],kamienie,jajorodne,26,28,,
+206,Pyszczak Yellow – Żółty, Labidochromis caeruleus ,images/trzy_razem.png,10,Malawi,"['żywy', 'suchy']",domek,jajorodne,24,28,/,
+207,Pirania czerwona – Natterera, Pygocentrus nattereri ,images/zimne.png,30,Ameryka Płd.,['żywy'],domek,jajorodne,24,26,,
+208,Pielęgniczka żółta – Borelli, Apistogramma borellii ,images/zimne.png,6.5,Ameryka Płd.,"['ślimaki', 'suchy']",kokos,jajorodne,20,26,+,
