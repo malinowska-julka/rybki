@@ -1,10 +1,12 @@
 from PIL import Image, ImageDraw, ImageFont
 import pandas as pd
 import random
+import csv
+import math
 
 random.seed(123)
 
-RYBKA_TEMP = 1
+RYBKA_TEMP = 12
 CARD_WIDTH = 800
 CARD_HEIGHT = 1100
 UPPER_RECT_WID_START = 50
@@ -21,15 +23,14 @@ KRYJOWKA_WIDTH = OGON_WIDTH - 10
 RYBKA_WID_LEFT = 50
 RYBKA_HEIGHT_UP = 181
 
-rybki = pd.read_csv("data/processed_rybki_final.csv")
-names = rybki["name"]
-latin_names = rybki["latin_name"]
-food = rybki["food"]
-temperature = rybki["temperature"]
-kryj = rybki["kryjowka_info"]
-dlug = rybki["length"]
-rybka = rybki["image_path"]
-food_rodzaje = ["glony", "mrożony", "suchy", "żywy", "ślimaki", "random"]
+
+def separate_name(text):
+    tokens = text.split()
+    no_words = len(tokens)
+    return [
+        " ".join(tokens[0 : no_words // 2]),
+        " ".join(tokens[math.ceil(no_words / 2) :]),
+    ]
 
 
 def wysrodkowany_text(text, coordinates_start, coordinates_end, font):
@@ -87,82 +88,134 @@ def temp_draw(temp):
     return im, coors
 
 
-result = Image.new("RGBA", (CARD_WIDTH, CARD_HEIGHT))
+if __name__ == "__main__":
+    rybki = csv.DictReader(open("data/processed_rybki_final.csv"))
+    food_rodzaje = ["glony", "mrożony", "suchy", "żywy", "ślimaki", "random"]
+    for rybka in rybki:
+        if rybka["image_path"] != "":
+            result = Image.new("RGBA", (CARD_WIDTH, CARD_HEIGHT))
+            font_name = ImageFont.truetype("fonts/Museo_Slab_500_2.otf", 40)
+            font_latin = ImageFont.truetype("fonts/freept.otf", 30)
 
-font_name = ImageFont.truetype("fonts/Museo_Slab_500_2.otf", 40)
-coor_name = wysrodkowany_text(
-    names[RYBKA_TEMP], (UPPER_RECT_WID_END + 1, 70), (CARD_WIDTH, 70), font_name
-)
-font_latin = ImageFont.truetype("fonts/freept.otf", 30)
-coor_latin = wysrodkowany_text(
-    latin_names[RYBKA_TEMP],
-    (UPPER_RECT_WID_END + 1, 120),
-    (CARD_WIDTH, 120),
-    font_latin,
-)
+            coor_name = wysrodkowany_text(
+                rybka["name"], (UPPER_RECT_WID_END + 1, 70), (CARD_WIDTH, 70), font_name
+            )
+            long_name = []
 
-draw = ImageDraw.Draw(result)
+            if coor_name[0] < UPPER_RECT_WID_END + 5:
+                long_name = separate_name(rybka["name"])
 
-# not changing background
-draw.rounded_rectangle(((0, 0), (CARD_WIDTH, CARD_HEIGHT)), 40, fill="PowderBlue")
+            coor_latin = wysrodkowany_text(
+                rybka["latin_name"],
+                (UPPER_RECT_WID_END + 1, 120),
+                (CARD_WIDTH, 120),
+                font_latin,
+            )
 
-# rybka print
-img = Image.open("images/rybki_img/" + rybka[RYBKA_TEMP])
-result.paste(img, (RYBKA_WID_LEFT, RYBKA_HEIGHT_UP))
+            draw = ImageDraw.Draw(result)
 
-draw.line(((UPPER_RECT_WID_END + 1, 50), (CARD_HEIGHT, 50)), fill="DarkSlateGray")
-draw.line(((UPPER_RECT_WID_END + 1, 180), (CARD_HEIGHT, 180)), fill="DarkSlateGray")
-draw.rounded_rectangle(
-    ((UPPER_RECT_WID_START, -10), (UPPER_RECT_WID_END, UPPER_RECT_HEIGHT)),
-    10,
-    fill="DodgerBlue",
-)
-draw.rectangle(
-    ((0, ACTION_REC_HEIGHT_START), (CARD_WIDTH, ACTION_REC_HEIGHT_END)), fill="White"
-)
+            # not changing background
+            draw.rounded_rectangle(
+                ((0, 0), (CARD_WIDTH, CARD_HEIGHT)), 40, fill="PowderBlue"
+            )
 
-# changing stuff
-draw.text(coor_name, names[RYBKA_TEMP], fill="Black", font=font_name)
-draw.text(coor_latin, latin_names[RYBKA_TEMP], fill="Gray", font=font_latin)
+            # rybka print
+            img = Image.open("images/rybki_img/" + rybka["image_path"])
+            result.paste(img, (RYBKA_WID_LEFT, RYBKA_HEIGHT_UP))
 
-# jedzenie print
-images, coors, sep, coors_sep = food_draw(food[RYBKA_TEMP])
-for i in range(len(images)):
-    im = Image.open(images[i])
-    result.paste(im, coors[i])
-for i in range(len(coors_sep)):
-    hopsa = Image.open(sep)
-    result.paste(hopsa, coors_sep[i])
+            draw.line(
+                ((UPPER_RECT_WID_END + 1, 50), (CARD_HEIGHT, 50)), fill="DarkSlateGray"
+            )
+            draw.line(
+                ((UPPER_RECT_WID_END + 1, 180), (CARD_HEIGHT, 180)),
+                fill="DarkSlateGray",
+            )
+            draw.rounded_rectangle(
+                ((UPPER_RECT_WID_START, -10), (UPPER_RECT_WID_END, UPPER_RECT_HEIGHT)),
+                10,
+                fill="DodgerBlue",
+            )
+            draw.rectangle(
+                ((0, ACTION_REC_HEIGHT_START), (CARD_WIDTH, ACTION_REC_HEIGHT_END)),
+                fill="White",
+            )
 
-# temp print
-images_temp, coors_temp = temp_draw(temperature[RYBKA_TEMP])
-result.paste(images_temp, coors_temp)
+            # nazwa print
 
-# dlugosc print
-length = Image.open("images/length.png")
-result.paste(length, (LENGTH_WIDTH, LENGTH_HEIGHT))
-font_length = ImageFont.truetype("fonts/Museo_Slab_500_2.otf", 30)
-draw.text(
-    (LENGTH_WIDTH + 25, LENGTH_HEIGHT + 20),
-    str(int(dlug[RYBKA_TEMP])) + " cm",
-    fill="Black",
-    font=font_length,
-)
+            if len(long_name) == 0:
+                draw.text(coor_name, rybka["name"], fill="Black", font=font_name)
+                draw.text(coor_latin, rybka["latin_name"], fill="Gray", font=font_latin)
 
-# punkty print
-ogon = Image.open("images/punkty.png")
-result.paste(ogon, (OGON_WIDTH, OGON_HEIGHT))
+            else:  # nazwa za długa i podzielona na dwie linijki
+                draw.text(
+                    wysrodkowany_text(
+                        long_name[0],
+                        (UPPER_RECT_WID_END + 1, 55),
+                        (CARD_WIDTH, 55),
+                        font_name,
+                    ),
+                    long_name[0],
+                    fill="Black",
+                    font=font_name,
+                )
+                draw.text(
+                    wysrodkowany_text(
+                        long_name[1],
+                        (UPPER_RECT_WID_END + 1, 94),
+                        (CARD_WIDTH, 94),
+                        font_name,
+                    ),
+                    long_name[1],
+                    fill="Black",
+                    font=font_name,
+                )
+                draw.text(
+                    (coor_latin[0], 130),
+                    rybka["latin_name"],
+                    fill="Gray",
+                    font=font_latin,
+                )
 
-# kryjowka print
-kryjowka = Image.open("images/" + kryj[RYBKA_TEMP] + ".png")
-result.paste(kryjowka, (KRYJOWKA_WIDTH, KRYJOWKA_HEIGHT))
+            # jedzenie print
+            images, coors, sep, coors_sep = food_draw(rybka["food"])
+            for i in range(len(images)):
+                im = Image.open(images[i])
+                result.paste(im, coors[i])
+            for i in range(len(coors_sep)):
+                hopsa = Image.open(sep)
+                result.paste(hopsa, coors_sep[i])
 
-# jajeczka
-ikra = Image.open("images/ikra.png")
-result.paste(ikra, (KRYJOWKA_WIDTH - 10, KRYJOWKA_HEIGHT + 100))
+            # temp print
+            images_temp, coors_temp = temp_draw(rybka["temperature"])
+            result.paste(images_temp, coors_temp)
 
-result.save("draw1.png")
+            # dlugosc print
+            length = Image.open("images/length.png")
+            result.paste(length, (LENGTH_WIDTH, LENGTH_HEIGHT), length)
+            font_length = ImageFont.truetype("fonts/Museo_Slab_500_2.otf", 30)
+            draw.text(
+                (LENGTH_WIDTH + 25, LENGTH_HEIGHT + 20),
+                str(math.ceil(float(rybka["length"]))) + " cm",
+                fill="Black",
+                font=font_length,
+            )
 
-# TODO ikra liczba i rozmieszczenie
-# TODO punkty
-# TODO ogon zmniejszyc i length i zmienic kolory
+            # punkty print
+            ogon = Image.open("images/punkty.png")
+            result.paste(ogon, (OGON_WIDTH, OGON_HEIGHT), ogon)
+
+            # kryjowka print
+            kryjowka = Image.open("images/" + rybka["kryjowka_info"] + ".png")
+            result.paste(kryjowka, (KRYJOWKA_WIDTH, KRYJOWKA_HEIGHT), kryjowka)
+
+            # jajeczka
+            ikra = Image.open("images/ikra.png")
+            result.paste(ikra, (KRYJOWKA_WIDTH - 10, KRYJOWKA_HEIGHT + 100))
+
+            result.save("cards/draw_" + rybka["name"] + ".png")
+
+    # TODO ikra liczba i rozmieszczenie i czy cos z tym ze zyworodna?
+    # TODO punkty
+    # TODO ogon zmniejszyc i length i zmienic kolory
+    # TODO background transparent albo moze jak kolizja to zmniejszaj obraz o pixel?
+    # TODO tekst akcji ujednolicic i potem dopiero printowac na karcie
